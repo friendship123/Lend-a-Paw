@@ -1,0 +1,19 @@
+Wants - HTML:
+* Title
+* Pictures of dogs
+* Live/Laugh/Love QUOTE
+* Donate button
+* Adopt a puppy banner
+
+Wants - CSS:
+* Make title bigger
+* Position images
+* Set up divs for quote, button, banner
+* Other miscellaneous things!!
+
+----------------------------------------------------------------------------------------
+
+MONDAY, March 13:
+* Title done
+* Images done
+* Basic styling: title, images

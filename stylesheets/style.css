@@ -12,14 +12,22 @@ div {
   margin: 20px 20px;
 }
 
-#footer {
+#header, #footer {
   background: black;
   color: white;
-  position: fixed;
-  bottom: 0px; 
+  position: fixed; 
   right: 0px; 
   left: 0px; 
-  padding: 15px; 
+  padding: 15px;
+}
+
+#header {
+  top: 0px;
+  margin-top: 0px;
+}
+
+#footer {
+  bottom: 0px;
   margin-bottom: 0px;
 }
 

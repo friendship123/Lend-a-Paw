@@ -15,6 +15,7 @@ footer {
   clear: left; 
   background: black;
   float: bottom;
+  position: fixed;
   color: white;
   
 }

@@ -3,10 +3,10 @@ h1  {
   color:pink;
 }
 
-#banner {
+footer {
   
-  background: green;
-  padding: 50px;
+  display: block;
+  float: bottom;
   
 }
 

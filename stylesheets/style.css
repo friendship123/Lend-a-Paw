@@ -3,10 +3,16 @@ h1  {
   color:pink;
 }
 
+div.container {
+  
+  width: 100%;
+  
+}
+
 footer {
   
-  display: block;
-  float: bottom;
+  padding: 1em;
+  clear: left; 
   
 }
 

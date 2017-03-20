@@ -3,6 +3,13 @@ h1  {
   color:pink;
 }
 
+#banner {
+  
+  background: green;
+  padding: 50px;
+  
+}
+
 img {
   width: 300px;
   padding: 20px;

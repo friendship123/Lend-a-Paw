@@ -37,18 +37,18 @@ img {
   position: absolute;
 }
 
-img#i1 {
+#i1 {
   margin: 100px 50px;
 }
 
-img#i2 {
+#i2 {
   margin: -10px 350px;
 }
 
-img#i3 {
+#i3 {
   margin: 70px 700px;
 }
 
-img#i4 {
+#i4 {
   margin: 120px 1050px;
 }

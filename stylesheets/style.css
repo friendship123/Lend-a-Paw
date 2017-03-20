@@ -6,17 +6,17 @@ h1  {
 div.container {
   
   width: 100%;
+  margin-bottom: 0px;
   
 }
 
 footer {
   
   padding: 1em;
-  clear: left; 
   background: black;
-  float: bottom;
   position: fixed;
   color: white;
+  margin-bottom: 0px;
   
 }
 

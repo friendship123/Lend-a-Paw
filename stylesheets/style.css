@@ -37,18 +37,18 @@ img {
   position: absolute;
 }
 
-img:nth-child(1) {
+img#i1 {
   margin: 100px 50px;
 }
 
-img:nth-child(2) {
+img#i2 {
   margin: -10px 350px;
 }
 
-img:nth-child(3) {
+img#i3 {
   margin: 70px 700px;
 }
 
-img:nth-child(4) {
+img#i4 {
   margin: 120px 1050px;
 }

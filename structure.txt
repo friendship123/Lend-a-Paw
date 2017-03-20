@@ -1,0 +1,28 @@
+1. Home page
+  * Title
+  * Pictures
+  * Banner at bottom
+  * Quotes
+  * Donate button
+  * Links to information about kinds of adoption, different pets, etc
+2. Dog page
+  * Pictures
+  * Testimonials from dog owners
+  * What it takes to be a dog owner (feeding, schedule, time commitment)
+  * Link to adoption process info
+  * Embed a video?
+3. Cat page
+  * Pictures
+  * Testimonials from cat owners
+  * What it takes to be a cat owner (feeding, schedule, time commitment)
+  * Link to adoption process info
+  * Embed a video?
+4. Adoption page
+  * Tabs for adoption process for dog and cat
+  * What to do for the adoption
+  * Available pets
+5. Volunteering page
+  * You can select your own commitment level
+  * Give us info so we can get in touch
+  * Donations/buy merchandise
+  * Fundraisers, upcoming events
